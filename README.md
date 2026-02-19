@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Heloisa Reis
+# 👩🏾‍💻 Heloisa Reis
 
 **`Aspirante a Desenvolvedora FullStack`**
 
