@@ -41,7 +41,7 @@ Aqui guardo meus projetos pra aprimorar meu conhecimento e aprendizado.😊
 
 <div align=center>
 
-<img src="https://raw.githubusercontent.com/helolkings/helokings/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/helolkings/helolkings/output/snake.svg" alt="Snake animation" />
     
 </div>
 
